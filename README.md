@@ -1,8 +1,8 @@
 # SemesterProject-UnderstandingBasicImageProcessingApplication_Minahil-Tahir-Fatima-Faizan_
-This repository will contain an interactive c++ code of filtering application that will help users to learn how image processing takes place behind the scenes through gamifying the whole process. Fear not as it will also contain all the steps that you will need to perform on your devices in order for it to work properly.
+This repository will contain an interactive c++ code of filtering application that will help users to learn how image processing takes place behind the scenes through gamifying the whole process. Fear not as it will also contain all the steps that you will need to perform on your devices in order for it to work properly.Note that Gitbash must be downloaded on your device to further proceed.<br>
 # <br>User Manual:<br>
   1. Firstly, please download **ImageMagick** through the following steps:<br>
-     a. Open command prompt on your device.<br>
+     a. Open GitBash on your device.<br>
      b. Enter the following command<br>
          picture of the command<br>
      c. ImageMagick will start downloading.Wait for a while.If you get an error, make sure to check your internet connection and try again.<br>
