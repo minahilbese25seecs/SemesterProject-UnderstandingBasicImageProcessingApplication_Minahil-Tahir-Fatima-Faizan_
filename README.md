@@ -7,9 +7,8 @@ This repository will contain an interactive c++ code of filtering application th
         <img width="460" height="49" alt="Image" src="https://github.com/user-attachments/assets/df567ecd-f366-4bca-96b6-b5a4df3ebbb0" /><br>
      c. ImageMagick will start downloading.Wait for a while.If you get an error, make sure to check your internet connection and try again.<br>
      d. After the download is complete, enter the following command to confirm the installation of ImageMagick on your device.<br>
+     <img width="1198" height="84" alt="Image" src="https://github.com/user-attachments/assets/2a10fcea-23a9-44ad-9514-9ef5d45cb6e8" /><br>
      
-     d. After the download is complete, enter the following command to confirm that ImageMagick is successfully                installed on your device.<br>
-           picture of the command.<br>
   2. Zip and download the entire folder on this git repository by clicking the green code button and by choosing zip and download.<br>
      <img width="629" height="434" alt="Image" src="https://github.com/user-attachments/assets/ee456880-0231-4875-a358-879e557a025d" />
   3. Make sure that you **unzip this folder on your desktop** otherwise this application will not work.<br>
@@ -22,5 +21,6 @@ This repository will contain an interactive c++ code of filtering application th
   10. The output photo will be avalaible in the **Filtered photos** sub-folder in ImageCraft.Open it to check if your output photo is there or not.<br>
   11. Convert your output.ppm to output.jpg by a .bat converter provided there.<br>
   12. You can see the filter applied on the output photo.<br>
+ -----------------------------------------------------HAPPY EDITING!-------------------------------------------------
      
      
