@@ -15,6 +15,9 @@ This repository will contain an interactive c++ code of filtering application th
   4. Now that ImageCraft has been unzipped on your desktop, you can open our code on any complier(most preferably visual studio) to start playing.<br>
   5. At one point, you will asked for an input photo, In ImageCraft folder, you are given a sub-folder named **User's photos** where you can download and upload a photo of your choice in **jpg** format.<br>
   6. In the same folder, you are provided with a .bat file where you can drag and drop your jpg format photo to convert it in a **ppm format** photo.<br>
+  > Keep in mind that the photo you wish to apply filter on must be present in the user's photos folder, otherwise it will fail to work.<br>
+
+  
   7. Copy the name of that ppm format photo and paste it in the debugger where you were initially asked the name of the input file with **.ppm** in the end.<br>
   8. You will also asked the name of the output(filtered) photo. Do not forget to end it with .ppm.<br>
   9. Next, Apply the filter of your choice.<br>
